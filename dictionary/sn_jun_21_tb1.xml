@@ -1,5 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?><database>
     <element extends="task" label="tb1_again2" max_length="40" name="sn_jun_21_tb1" type="collection">
         <element label="col1" max_length="100" name="col1" type="string"/>
-        </element>
+        <element label="col2" max_length="100" name="col2" type="string"/>
+    </element>
 </database>
