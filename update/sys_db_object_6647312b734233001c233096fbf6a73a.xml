@@ -11,7 +11,7 @@
         <delete_access>false</delete_access>
         <extension_model/>
         <is_extendable>false</is_extendable>
-        <label>tb1_bkp</label>
+        <label>tb1_chg</label>
         <live_feed_enabled>false</live_feed_enabled>
         <name>sn_jun_21_tb1</name>
         <number_ref/>
@@ -25,14 +25,14 @@
         <sys_created_by>admin</sys_created_by>
         <sys_created_on>2019-06-21 06:33:12</sys_created_on>
         <sys_id>6647312b734233001c233096fbf6a73a</sys_id>
-        <sys_mod_count>1</sys_mod_count>
-        <sys_name>tb1_bkp</sys_name>
+        <sys_mod_count>2</sys_mod_count>
+        <sys_name>tb1_chg</sys_name>
         <sys_package display_value="jun_21" source="sn_jun_21">96c535e7734233001c233096fbf6a742</sys_package>
         <sys_policy/>
         <sys_scope display_value="jun_21">96c535e7734233001c233096fbf6a742</sys_scope>
         <sys_update_name>sys_db_object_6647312b734233001c233096fbf6a73a</sys_update_name>
         <sys_updated_by>admin</sys_updated_by>
-        <sys_updated_on>2019-06-21 06:40:31</sys_updated_on>
+        <sys_updated_on>2019-06-21 09:23:15</sys_updated_on>
         <update_access>false</update_access>
         <user_role display_value="sn_jun_21.tb1_user" name="sn_jun_21.tb1_user">9c67712b734233001c233096fbf6a720</user_role>
         <ws_access>true</ws_access>
