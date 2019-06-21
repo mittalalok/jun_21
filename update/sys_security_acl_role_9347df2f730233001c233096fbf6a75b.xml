@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_security_acl_role">
+    <sys_security_acl_role action="INSERT_OR_UPDATE">
+        <sys_class_name>sys_security_acl_role</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2019-06-21 13:32:17</sys_created_on>
+        <sys_id>9347df2f730233001c233096fbf6a75b</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>sn_jun_21_tb3.sn_jun_21.tb3_user</sys_name>
+        <sys_package display_value="jun_21" source="sn_jun_21">96c535e7734233001c233096fbf6a742</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="jun_21">96c535e7734233001c233096fbf6a742</sys_scope>
+        <sys_security_acl display_value="sn_jun_21_tb3">5747df2f730233001c233096fbf6a758</sys_security_acl>
+        <sys_update_name>sys_security_acl_role_9347df2f730233001c233096fbf6a75b</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2019-06-21 13:32:17</sys_updated_on>
+        <sys_user_role display_value="sn_jun_21.tb3_user" name="sn_jun_21.tb3_user">4b479f2f730233001c233096fbf6a7cd</sys_user_role>
+        <transaction_id/>
+    </sys_security_acl_role>
+</record_update>
