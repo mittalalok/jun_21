@@ -2,5 +2,6 @@
     <element extends="task" label="tb3" max_length="40" name="sn_jun_21_tb3" type="collection">
         <element label="col1" max_length="100" name="col1" type="string"/>
         <element label="Col2" max_length="25" name="col2" type="string"/>
-    </element>
+        <element label="Col3" max_length="10" name="col3" type="string"/>
+        </element>
 </database>
