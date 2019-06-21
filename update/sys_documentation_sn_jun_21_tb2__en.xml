@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_documentation element="" label="tb2_again" language="en" table="sn_jun_21_tb2">
+        <sys_documentation action="INSERT_OR_UPDATE">
+            <element/>
+            <help/>
+            <hint/>
+            <label>tb2_again</label>
+            <language>en</language>
+            <name>sn_jun_21_tb2</name>
+            <plural>tb2_agains</plural>
+            <sys_class_name>sys_documentation</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2019-06-21 11:59:23</sys_created_on>
+            <sys_id>1a028f67730233001c233096fbf6a70b</sys_id>
+            <sys_mod_count>1</sys_mod_count>
+            <sys_name>tb2_again</sys_name>
+            <sys_package display_value="jun_21" source="sn_jun_21">96c535e7734233001c233096fbf6a742</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="jun_21">96c535e7734233001c233096fbf6a742</sys_scope>
+            <sys_update_name>sys_documentation_sn_jun_21_tb2__en</sys_update_name>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2019-06-21 12:05:58</sys_updated_on>
+            <url/>
+            <url_target/>
+        </sys_documentation>
+    </sys_documentation>
+</record_update>
